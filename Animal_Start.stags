@@ -1,0 +1,130 @@
+{
+	"categoryId": "ImageRef",
+	"threshold": "0.75",
+	"smartTags": [
+		{
+			"name": "Animal_Start",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Animal_Start.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "Costarrica",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Costarrica.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "eye",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/eye.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "Literature",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Literature.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "MaybeLater",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/MaybeLater.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "Mulluscs",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Mulluscs.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "Shells",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Shells.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		},
+		{
+			"name": "Tellins",
+			"category": "ImageRef",
+			"type": "Navigation",
+			"tags": [
+				"http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Tellins.png"
+			],
+			"rules": [],
+			"info": {},
+			"disabled": false,
+			"description": "",
+			"singleton": false,
+			"scanOncePerApp": false,
+			"scanOnePerPage": false
+		}
+	],
+	"actions": [],
+	"customTags": [],
+	"validators": [],
+	"extractors": []
+}

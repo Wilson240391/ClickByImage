@@ -1,0 +1,869 @@
+{
+    "appPackage": "net.kunzweb.apps.animalsofcostarica",
+    "stepsExecuted": 13,
+    "interactive": false,
+    "scale": 1,
+    "requests": {},
+    "type": ["Smarttags"],
+    "visualHints": true,
+    "states": [
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "0.xml"
+            }],
+            "children": {"0": [
+                1,
+                3
+            ]},
+            "name": "Blank",
+            "nameVariants": [
+                "Sunrise tellin",
+                "Animals of Costa Rica"
+            ],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [{
+                    "name": "click-3",
+                    "actionId": 3,
+                    "caoId": -1
+                }]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": 0,
+            "fields": [
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 1,
+                    "w": 1036,
+                    "name": "Mulluscs()",
+                    "x": 24,
+                    "h": 202,
+                    "action": "click",
+                    "y": 1339,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                },
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 0,
+                    "w": 1036,
+                    "name": "Mulluscs()",
+                    "x": 25,
+                    "h": 202,
+                    "action": "click",
+                    "y": 1165,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                }
+            ],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "0.png"
+            }],
+            "reachable": {"0": true}
+        },
+        {
+            "containsInput": false,
+            "sources": [],
+            "children": {},
+            "name": "Still Blank",
+            "nameVariants": [],
+            "customActions": [],
+            "fieldsProcessed": {},
+            "id": 1,
+            "fields": [],
+            "customActionsAdded": [],
+            "visualHints": [],
+            "reachable": {}
+        },
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "-29354592.xml"
+            }],
+            "children": {"0": [2]},
+            "name": "State--29354592",
+            "nameVariants": ["State--29354592"],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [{
+                    "name": "click-2",
+                    "actionId": 2,
+                    "caoId": -1
+                }]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": -29354592,
+            "fields": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 873,
+                "name": "Animal_Start()",
+                "x": 112,
+                "h": 133,
+                "action": "click",
+                "y": 715,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "-29354592.png"
+            }],
+            "reachable": {"0": true}
+        },
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "-569914204.xml"
+            }],
+            "children": {"0": [4]},
+            "name": "Animals of Costa Rica",
+            "nameVariants": ["Animals of Costa Rica"],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [{
+                    "name": "click-4",
+                    "actionId": 4,
+                    "caoId": -1
+                }]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": -569914204,
+            "fields": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 312,
+                "name": "Shells()",
+                "x": 30,
+                "h": 200,
+                "action": "click",
+                "y": 777,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "-569914204.png"
+            }],
+            "reachable": {"0": true}
+        },
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "-1313678274.xml"
+            }],
+            "children": {"0": [5]},
+            "name": "Animals of Costa Rica",
+            "nameVariants": ["Animals of Costa Rica"],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [{
+                    "name": "click-5",
+                    "actionId": 5,
+                    "caoId": -1
+                }]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": -1313678274,
+            "fields": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 409,
+                "name": "Tellins()",
+                "x": 23,
+                "h": 202,
+                "action": "click",
+                "y": 989,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "-1313678274.png"
+            }],
+            "reachable": {"0": true}
+        },
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "1732960628.xml"
+            }],
+            "children": {"0": [
+                6,
+                7
+            ]},
+            "name": "Animals of Costa Rica",
+            "nameVariants": ["Animals of Costa Rica"],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [
+                    {
+                        "name": "click-6",
+                        "actionId": 6,
+                        "caoId": -1
+                    },
+                    {
+                        "name": "click-7",
+                        "actionId": 7,
+                        "caoId": -1
+                    }
+                ]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": 1732960628,
+            "fields": [
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 1,
+                    "w": 101,
+                    "name": "eye()",
+                    "x": 965,
+                    "h": 66,
+                    "action": "click",
+                    "y": 686,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                },
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 1,
+                    "w": 409,
+                    "name": "Tellins()",
+                    "x": 23,
+                    "h": 202,
+                    "action": "click",
+                    "y": 569,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                }
+            ],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "1732960628.png"
+            }],
+            "reachable": {"0": true}
+        },
+        {
+            "containsInput": false,
+            "sources": [{
+                "executionId": 0,
+                "document": "96978674.xml"
+            }],
+            "children": {"0": [8]},
+            "name": "Sunrise tellin",
+            "nameVariants": ["Sunrise tellin"],
+            "customActions": [{
+                "executionId": 0,
+                "actions": [{
+                    "name": "click-8",
+                    "actionId": 8,
+                    "caoId": -1
+                }]
+            }],
+            "fieldsProcessed": {"0": true},
+            "id": 96978674,
+            "fields": [
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 1,
+                    "w": 101,
+                    "name": "eye()",
+                    "x": 511,
+                    "h": 66,
+                    "action": "click",
+                    "y": 1095,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                },
+                {
+                    "oncePerApp": false,
+                    "actionsCreated": 0,
+                    "w": 101,
+                    "name": "eye()",
+                    "x": 511,
+                    "h": 66,
+                    "action": "click",
+                    "y": 1046,
+                    "type": "Navigation",
+                    "elementType": "mobile"
+                }
+            ],
+            "customActionsAdded": [],
+            "visualHints": [{
+                "executionId": 0,
+                "visualHint": "96978674.png"
+            }],
+            "reachable": {"0": true}
+        }
+    ],
+    "duration": 390388,
+    "blueprintType": "mobile",
+    "dplTypeLocale": "en_US",
+    "mobileConfigurations": [{
+        "proxyPort": 0,
+        "capturePort": 0,
+        "capabilities": {
+            "appPackage": "net.kunzweb.apps.animalsofcostarica",
+            "appActivity": "crc64b300a06eaca7b885.SplashActivity",
+            "noReset": "true",
+            "platformVersion": "9",
+            "udid": "emulator-5554",
+            "platformName": "Android",
+            "deviceName": "device",
+            "systemPort": "8201"
+        },
+        "serverURL": "http://localhost:4723/wd/hub",
+        "proxyHost": ""
+    }],
+    "root": 1,
+    "setupJS": "",
+    "lastActionId": 8,
+    "nwLibraries": [],
+    "validationsWorkbench": [],
+    "platformName": "Android",
+    "scripts": [],
+    "dplType": "HashDPL",
+    "validDomains": [],
+    "stLibraries": [{
+        "customTags": [],
+        "extractors": [],
+        "validators": [],
+        "threshold": 0.75,
+        "actions": [],
+        "smartTags": [
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/eye.png"],
+                "name": "eye",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            },
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Mulluscs.png"],
+                "name": "Mulluscs",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            },
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Tellins.png"],
+                "name": "Tellins",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            },
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Animal_Start.png"],
+                "name": "Animal_Start",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            },
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/Shells.png"],
+                "name": "Shells",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            },
+            {
+                "singleton": false,
+                "scanOnePerPage": false,
+                "extractors": [],
+                "validators": [],
+                "methods": {},
+                "scanOncePerApp": false,
+                "rules": [],
+                "type": "Navigation",
+                "tags": ["http://localhost:8080/AppvanceServer/rest/public/appvance/REPOSITORY/DemoRepo/DemoAnimals/MaybeLater.png"],
+                "name": "MaybeLater",
+                "disabled": false,
+                "category": "ImageRef",
+                "actions": [],
+                "info": {}
+            }
+        ]
+    }],
+    "app": "",
+    "timesThreadStarted": 2,
+    "bundleId": "",
+    "threads": 1,
+    "version": 300,
+    "shadowDOM": false,
+    "appActivity": "crc64b300a06eaca7b885.SplashActivity",
+    "delay": 0,
+    "executions": [{
+        "extractors": [],
+        "validators": [],
+        "templates": [{
+            "stateId": -1,
+            "orders": []
+        }],
+        "start": 1671049209821,
+        "unprocessedActions": [],
+        "smartTags": [
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "eye",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            },
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "Mulluscs",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            },
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "Tellins",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            },
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "Animal_Start",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            },
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "MaybeLater",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            },
+            {
+                "inconsistencies": 0,
+                "urls": [],
+                "failures": 0,
+                "actionsCreated": 0,
+                "name": "Shells",
+                "disabled": false,
+                "rules": [],
+                "type": "Navigation",
+                "visualHints": []
+            }
+        ],
+        "actionsFound": 8,
+        "duration": 390382,
+        "stLibraryId": 0,
+        "dataSetNames": ["Default"],
+        "stop": 1671054425620,
+        "lastResume": 1671050660871,
+        "networkValidations": [],
+        "useOneDataSet": false,
+        "bindingsWithoutCustomActions": [
+            -29354592,
+            0,
+            -569914204,
+            -1313678274,
+            1732960628,
+            96978674
+        ],
+        "name": "Dynamite",
+        "usePreviousBindings": false,
+        "id": 0,
+        "statesFound": [
+            -29354592,
+            0,
+            -569914204,
+            -1313678274,
+            1732960628,
+            96978674
+        ],
+        "failedActions": [{
+            "mcId": 0,
+            "actionIds": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "dataSetName": "Default",
+            "index": 5,
+            "messageId": -134552862
+        }],
+        "bindingsWithCustomActions": [],
+        "inconsistentActions": []
+    }],
+    "prune": true,
+    "service": "On-Premises",
+    "removedActions": [],
+    "dataSets": [{
+        "values": {},
+        "name": "Default"
+    }],
+    "files": [],
+    "messages": [
+        {
+            "value": "Error executing Action: 2\nElement Animal_Start() was not found\n\tat com.appvance.mobile.client.MobileDesignerClient.click(MobileDesignerClient.java:1108)\n\tat <js> click(mobile.js:398:8420-8445)\n\tat <js> :program(Unnamed:1:0-20)\n\tat org.graalvm.sdk/org.graalvm.polyglot.Context.eval(Context.java:425)\n\tat com.appvance.mobile.js.MobileJSClient.evalString(MobileJSClient.java:342)\n\tat com.appvance.aitestgen.engine.MobileManager.executeAction(MobileManager.java:68)\n\tat com.appvance.aitestgen.thread.MobileExtractorThread.process(MobileExtractorThread.java:125)\n\tat com.appvance.aitestgen.thread.BaseExtractorThread.run(BaseExtractorThread.java:128)\n\tat com.appvance.aitestgen.thread.MobileExtractorThread.run(MobileExtractorThread.java:51)\n\tat java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)\n\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\nCaused by host exception: java.lang.Exception: Element Animal_Start() was not found\n",
+            "key": 1971097260
+        },
+        {
+            "value": "Error executing Action: 6\nElement eye() was not found\n\tat com.appvance.mobile.client.MobileDesignerClient.click(MobileDesignerClient.java:1108)\n\tat <js> click(mobile.js:398:8420-8445)\n\tat <js> :program(Unnamed:1:0-11)\n\tat org.graalvm.sdk/org.graalvm.polyglot.Context.eval(Context.java:425)\n\tat com.appvance.mobile.js.MobileJSClient.evalString(MobileJSClient.java:342)\n\tat com.appvance.aitestgen.engine.MobileManager.executeAction(MobileManager.java:68)\n\tat com.appvance.aitestgen.thread.MobileExtractorThread.process(MobileExtractorThread.java:125)\n\tat com.appvance.aitestgen.thread.BaseExtractorThread.run(BaseExtractorThread.java:128)\n\tat com.appvance.aitestgen.thread.MobileExtractorThread.run(MobileExtractorThread.java:51)\n\tat java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)\n\tat java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)\n\tat java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)\n\tat java.base/java.lang.Thread.run(Thread.java:829)\nCaused by host exception: java.lang.Exception: Element eye() was not found\n",
+            "key": -134552862
+        }
+    ],
+    "actions": [
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": 0,
+                "weight": 1
+            }]},
+            "paths": [],
+            "timesVisited": [],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 0,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 0,
+                "action": "//Open",
+                "value": ""
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": -29354592,
+                "weight": 1
+            }]},
+            "paths": [],
+            "timesVisited": [{
+                "executionId": 3,
+                "times": 3
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 1,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 0,
+                "action": "start",
+                "type": "Root",
+                "value": ""
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": 0,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [1]
+            }],
+            "timesVisited": [{
+                "executionId": 2,
+                "times": 2
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 2,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 873,
+                "name": "Animal_Start()",
+                "x": 112,
+                "h": 133,
+                "action": "click",
+                "y": 715,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": -569914204,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2
+                ]
+            }],
+            "timesVisited": [{
+                "executionId": 2,
+                "times": 2
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 3,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 1036,
+                "name": "Mulluscs()",
+                "x": 24,
+                "h": 202,
+                "action": "click",
+                "y": 1339,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": -1313678274,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2,
+                    3
+                ]
+            }],
+            "timesVisited": [{
+                "executionId": 2,
+                "times": 2
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 4,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 312,
+                "name": "Shells()",
+                "x": 30,
+                "h": 200,
+                "action": "click",
+                "y": 777,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": 1732960628,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }],
+            "timesVisited": [{
+                "executionId": 2,
+                "times": 2
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 5,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 409,
+                "name": "Tellins()",
+                "x": 23,
+                "h": 202,
+                "action": "click",
+                "y": 989,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": []},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }],
+            "timesVisited": [],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 6,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 101,
+                "name": "eye()",
+                "x": 965,
+                "h": 66,
+                "action": "click",
+                "y": 686,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": 96978674,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }],
+            "timesVisited": [{
+                "executionId": 1,
+                "times": 1
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 7,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 409,
+                "name": "Tellins()",
+                "x": 23,
+                "h": 202,
+                "action": "click",
+                "y": 569,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        },
+        {
+            "requestList": [],
+            "children": {"0": [{
+                "stateId": 0,
+                "weight": 1
+            }]},
+            "paths": [{
+                "executionId": 0,
+                "actionIds": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    7
+                ]
+            }],
+            "timesVisited": [{
+                "executionId": 1,
+                "times": 1
+            }],
+            "apiRequestList": [],
+            "presentSteps": [],
+            "id": 8,
+            "steps": [{
+                "oncePerApp": false,
+                "actionsCreated": 1,
+                "w": 101,
+                "name": "eye()",
+                "x": 511,
+                "h": 66,
+                "action": "click",
+                "y": 1095,
+                "type": "Navigation",
+                "elementType": "mobile"
+            }]
+        }
+    ],
+    "selfHealing": false
+}

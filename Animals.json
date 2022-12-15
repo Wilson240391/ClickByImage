@@ -1,0 +1,23 @@
+[
+{
+        "configName": "Animals Main",
+        "app": "",
+        "appPackage": "net.kunzweb.apps.animalsofcostarica",
+        "proxyURL": "",
+        "bundleId": "",
+        "source": "package",
+        "appActivity": "crc64b300a06eaca7b885.SplashActivity",
+        "deviceMode": false,
+        "service": "On-Premises",
+        "serverURL": "http://localhost:4723/wd/hub",
+        "platformName": "Android",
+        "validDomains": "",
+        "capabilities": {
+            "platformVersion": "9",
+            "udid": "emulator-5554",
+            "systemPort": "8201",
+            "deviceName": "device",
+	    "noReset": "true"
+        }
+    }
+]

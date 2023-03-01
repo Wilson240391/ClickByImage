@@ -1,4 +1,4 @@
-iif ($proxyHost.length > 0 && $proxyPort != 0 && $capturePort != 0) {
+iiif ($proxyHost.length > 0 && $proxyPort != 0 && $capturePort != 0) {
 	enableNetwork($proxyHost, $proxyPort, $capturePort);
 }
 setFailOnValidations(true);
